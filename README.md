@@ -1,3 +1,5 @@
+My FS template using Tailwind css
+
 # Install
 
 `npm install`
